@@ -1,0 +1,15 @@
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\bin\Debug\net7.0\01Star.exe
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\bin\Debug\net7.0\01Star.deps.json
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\bin\Debug\net7.0\01Star.runtimeconfig.json
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\bin\Debug\net7.0\01Star.dll
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\bin\Debug\net7.0\01Star.pdb
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.csproj.AssemblyReference.cache
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.AssemblyInfoInputs.cache
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.AssemblyInfo.cs
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.csproj.CoreCompileInputs.cache
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.dll
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\refint\01Star.dll
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.pdb
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\01Star.genruntimeconfig.cache
+F:\Proj\C#\CSharp-TestCodes\01Star\01Star\obj\Debug\net7.0\ref\01Star.dll
